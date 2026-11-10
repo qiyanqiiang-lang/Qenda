@@ -1,0 +1,4 @@
+Rollback writes config/force-off.flag and deletes config/local-enable.php if that file exists.
+It does not open a database, does not run sql/down, and does not contact a network host.
+sql/down drops isolated tables and would delete keys already issued. Do not use it as production rollback.
+Already issued isolated keys stay in place when the feature is forced off.
