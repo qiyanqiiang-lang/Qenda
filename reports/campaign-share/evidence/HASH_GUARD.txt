@@ -1,0 +1,4 @@
+README.md md5=64b9ebb9b196612b9ad93859faa24385 expected=64b9ebb9b196612b9ad93859faa24385
+Caishen/api/verify.php ABSENT live_anchor=fcda5b23af14045083e4b6fa57d6d792 not_recomputed production_not_contacted
+Caishen/api/codes.php ABSENT live_anchor=064bab4092bb9d294c763e67e52b9a7c not_recomputed production_not_contacted
+hash guard ok

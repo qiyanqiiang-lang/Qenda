@@ -1,0 +1,5 @@
+/* Structural readability only. Visual design is not started. */
+body { font-family: sans-serif; max-width: 40rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
+button, input { font: inherit; }
+table { border-collapse: collapse; width: 100%; }
+td, th { text-align: left; padding: 0.25rem 0.5rem; }
